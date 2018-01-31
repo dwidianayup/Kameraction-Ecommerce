@@ -1,0 +1,81 @@
+Sony A5000 Kit		4.576.000		1
+Mirrorles, 20.1MP
+ISO 100-16000
+
+Sony Cybershot DSC-H300	2.150.000		2
+Kompak, Approx 20.1MP
+ISO 80-3200
+2-1/1500
+
+Sony Cybershot DSC-W810	1.199.000		3
+Kompak, Approx 20.1MP
+ISO 100-3200
+2-1/1500
+
+Sony Alpha A3000 Kit	3.949.000		4
+DSLR - Lens, 20.1MP
+ISO 100-16000
+1/4000-30 sec
+
+Sony Cybershot DSC-H200	2.050.000		5
+Kompak, 20.1MP
+ISO 80-3200
+1"-1/1500
+
+Sony Cybershot DSC-H400	3.229.000		6
+Kompak, 20.1MP
+Auto ISO 80-3200
+2-1/2000
+
+Sony Cybershot DSC-W830	1.509.000		7	
+Kompak, Approx 20.1MP
+Auto ISO 80-3200
+2"-1/1600
+
+Sony Cybershot DSC-RX100	6.745.000	8
+Kompak, Approx 20.2MP
+ISO 125-12800
+4"-1/2000
+
+Sony a6000Y ILCE	9.999.000		9
+Mirrorless, 24.3MP
+ISO 100-25600
+
+Sony CYbershot DSC-W710	1.125.000		10
+Kompak, 16.1MP
+Auto ISO 100-6400
+2"-1/2000
+
+Sony Cybershot DSC-QX10	1.899.000		11
+Lens style, Approx 20.2MP
+ISO 160-25600
+4-1/2000
+
+Sony NEX-7 Body		6.809.000		12
+Mirrorless,24.3MP
+ISO 100-16000
+30-1/4000
+
+Sony a5000 ILCE		5.499.000		13
+Mirrorless, Approx 20.1MP
+ISO 100-16000
+
+Sony Cybershot DSC-HX400V	5.300.000	14
+Kompak, 20.4MP
+Auto ISO 80-3200
+1-1/4000 sec
+
+Sony ILCE-QX1 Body	5.951.000		15
+Mirrorless, Approx 20.1MP
+ISO 100-16000
+1/4000-30 sec
+
+Sony Cybershot DSC-W730	1.400.000		16
+Kompak, 16.4MP
+ISO 80-3200
+2"-1/1600
+
+Sony Cybershot DSC-W800	1.434.000		17
+Kompak, 20.4MP
+AUTO ISO 100-3200
+2-1/1500

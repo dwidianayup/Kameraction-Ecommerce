@@ -1,0 +1,245 @@
+<html>
+<head>
+<title>Kameraction | Shop & Tips</title>
+<style>
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #108BDB;
+}
+
+li.right {
+    float: right;
+}
+
+li.left{
+  float: left;
+}
+
+
+li a, .dropbtn {
+    display: block;
+    color: white;
+    text-align: center;
+    font-family: "Arial", serif;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #f9f9f9;
+    color: black;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+#br01 {
+    color: red;
+}
+
+table{
+  font-family: "Arial", serif;
+  font-size: 14px;
+  margin-left: 35px;
+  color: #555;
+}
+
+td{
+  border-spacing: 10px;
+  padding: 5px;
+}
+
+.form-control {
+  position: relative;
+  padding: 3px;
+  display: block;
+  width: 100%;
+  height: 25px;
+  font-size: 14px;
+  line-height: 1.2;
+  color: #555;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.btn{
+    float: left;
+    width: 70px;
+    height: 30px;
+    margin-left: 125px;
+    margin-bottom: 20px;
+    border: 1px solid #108BDB;
+    background-color: #108BDB;
+    display: block;
+    color: white;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+
+h2{
+  font-family: sans-serif;
+  text-align: center;
+}
+p{
+	margin-left: 30px;
+	font-family: "Arial", serif;
+}
+</style>	
+</head>
+ <body>
+
+ <ul>
+  <li class="right"><a class="active" href="home.html">Logout</a></li>
+  <li class="right"><a href="tips.html">Tips</a></li>
+  <li class="dropdown right">
+  	<a href="javascript:void(0)" class="dropbtn">Kategori</a>
+  	<div class="dropdown-content">
+      <a href="Canon.html">Canon</a>
+      <a href="Fujifilm.html">Fujifilm</a>
+      <a href="Nikon.html">Nikon</a>
+      <a href="Olympus.html">Olympus</a>
+      <a href="Samsung.html">Samsung</a>
+      <a href="Sony.html">Sony</a>
+  </li>
+  <li class="left"><a href="file_gambar/logo.png"><img src="file_gambar/logo.png" height="25px" width="200px"></a></li>
+</ul>
+
+
+ <h2>Form Order<br>Nikon DSLR D7000 Kit</h2>
+<h3 align="center"><img src="file_gambar/filegambar_3/Nikon5.jpg" height="200px"></h3>
+
+<p><b>Spesifikasi</b>
+<table class="tabel">
+	<tr>
+		<td class="tdd">Kategori</td>
+		<td align="center">:</td>
+		<td>Kamera Digital</td>
+	</tr>
+	<tr>
+		<td>Harga</td>
+		<td align="center">:</td>
+		<td>Rp 12.150.000</td>
+	</tr>
+	<tr>
+		<td>Berat</td>
+		<td align="center">:</td>
+		<td>1.0 Kilogram</td>
+	</tr>
+	<tr>
+		<td>Tipe</td>
+		<td align="center">:</td>
+		<td>Compact</td>
+	</tr>
+	<tr>
+		<td>Merek</td>
+		<td align="center">:</td>
+		<td>Nikon</td>
+	</tr>
+	<tr>
+		<td>Megapixel</td>
+		<td align="center">:</td>
+		<td>20MP - Approx</td>
+	</tr>
+	<tr>
+		<td>ISO</td>
+		<td align="center">:</td>
+		<td>100-800</td>
+	</tr>
+	<tr>
+		<td>Diafragma</td>
+		<td align="center">:</td>
+		<td>1 - 1/2000 sec</td>
+	</tr>
+</table>
+ </p>
+ <p><b>Form Order</b>
+ <table>
+ 	<tr>
+		<td>Nama Barang</td>
+		<td align="center">:</td>
+		<td><input type="text" class="form-control" name="nm_barang" placeholder="Nama Barang" autofocus></td>
+	</tr>
+	<tr>
+		<td>Jumlah Barang</td>
+		<td align="center">:</td>
+		<td><input type="text" class="form-control" name="jml_barang" placeholder="Jumlah Pesanan" autofocus></td>
+	</tr>
+	<tr>
+		<td>Nama Pemesan</td>
+		<td align="center">:</td>
+		<td><input type="text" class="form-control" name="nm_pemesan" placeholder="Nama Pemesan" autofocus></td>
+	</tr>
+	<tr>
+		<td>Email Pemesan</td>
+		<td align="center">:</td>
+		<td><input type="text" class="form-control" name="email_pemesan" placeholder="Email" autofocus></td>
+	</tr>
+	<tr>
+		<td>Alamat Pemesan</td>
+		<td align="center">:</td>
+		<td><input type="text" class="form-control" name="alamat_pemesan" placeholder="Alamat Lengkap" autofocus></td>
+	</tr>
+	<tr>
+		<td>No HP Pemesan</td>
+		<td align="center">:</td>
+		<td><input type="text" class="form-control" name="nohp_pemesan" placeholder="No HP" autofocus></td>
+	</tr>
+	<tr>
+		<td>Pembayaran<br><br></td>
+		<td align="center">:<br><br></td>
+		<td><input type="radio" name="pembayaran" value="tunai" checked>  Tunai / COD<br>
+			<input type="radio" name="pembayaran" value="transfer">  Transfer Bank<br></td>
+	</tr>
+	<tr>
+		<td>Pengiriman<br><br><br><br></td>
+		<td align="center">:<br><br><br><br></td>
+		<td><input type="radio" name="pengiriman" value="pos" checked>  Kantor Pos<br>
+			<input type="radio" name="pengiriman" value="jne">  JNE<br>
+			<input type="radio" name="pengiriman" value="j&t">  J&T<br>
+			<input type="radio" name="pengiriman" value="tiki">  Tiki<br></td>
+
+	</tr>
+ </table>
+ <br>
+ <a href="index.html"><button class="btn" type="submit">Submit</button></a>
+ </p>
+ 
+
+ </body>
+
+</html>

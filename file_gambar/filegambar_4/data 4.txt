@@ -1,0 +1,70 @@
+Samsung NX1000 Kit	3.999.000		1
+Mirrorless, 20.3MP
+Auto, 100-6400
+
+Samsung NX Mini		5.100.000		2
+Kompak, 20.5MP
+Auto, 160-12800
+30-1/16000sec
+	
+Samsung NX3000		6.024.000		3
+Mirrorless, 20.3MP
+Auto, 100-25600
+1/4000-30 sec
+
+Samsung NX300M		5.028.000		4
+Mirrorless, 20.3MP
+Auto, 100-6400
+
+Samsung Galaxy Camera GC100	3.275.000	5
+Kompak, 16.3MP
+Auto, 100-3200
+1/8-1/2000 sec
+
+Samsung NX500 Kit	7.620.000		6
+DSLR-Lens 28.2MP
+Auto, ISO 100-25600
+Auto : 1/6000-1/4 sec
+
+Samsung DV150F		1.430.000		7
+Kompak, 16.2MP
+ISO 80-3200
+1/8-1/2000 sec
+	
+Samsung Smart Camera NX30	6.900.000	8
+Mirrorless, 20.3MP
+Auto 100-6400
+
+Samsung NX2000 Kit	5.999.000		9
+Mirrorless, Approx 20.3MP
+ISO 100-25600
+Auto 100-25600
+
+Samsung PL90		820.000			10
+Kompak, 12.2MP
+ISO 80-1600
+1/8-1/2000 sec
+
+Samsung ES75		930.000			11
+Kompak 14.2MP
+
+Samsung ES95		950.000			12
+Kompak 16.1MP
+Auto 80-3200
+
+Samsung ST150F		1.359.000		13
+Kompak, 16.2MP
+ISO 80-3200
+1/8-1/2000 sec
+
+Samsung ES80		830.000			14
+Kompak, 12.2 MP
+ISO 80-1600
+1/8-1/2000
+
+Samsung ST65		1.035.000		15
+Kompak, 14.54MP
+
+Samsung EX2F		5.798.000		16
+Kompak, 12.4MP
+Auto ISO 80-12800

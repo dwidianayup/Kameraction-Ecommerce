@@ -1,0 +1,78 @@
+Canon EOS 600D Kit	5.850.00			1
+DSLR - Lens, 18MP
+ISO 100-6400
+30-1/4000
+
+Canon PowerShot SX410 IS	1.800.000		2
+Kompak, Approx 20MP
+AUTO, ISO 100-800, 1 stop increments
+1-1/4000sec, 15-1sec
+
+Canon PowerShot SX400 IS	2.140.000		3
+Kompak,Approx 16.0 Million pixels
+Auto, ISO 100-1600 1 step increments
+1-1/1600sec, 15-1 sec
+
+Canon EOS 1100D Kit	4.400.000			4
+DSLR - Lens 12.2MP
+ISO 100-3200
+30-1/4000
+
+Canon EOS 1200D Kit	4.275.000			5
+DSLR - Lens 18MP
+ISO 100-12800
+
+Canon EOS 1300D Kit ( Rebel T6 )	4.730.000	6
+DSLR - Lens 18MP
+ISO 100-6400
+1/30-1/4000
+
+Canon EOS 550D Kit	8.684.900			7
+DSLR - Lens 18MP
+ISO 100-6400
+30-1/4000
+
+Canon EOS 70D Body	10.605.000			8
+DSLR - body, Approx 20.2MP
+ISO 100-12800
+1/8000 to 30sec
+
+Canon IXUS 160		1.050.000			9
+Kompak, Approx 20MP
+AUTO, ISO 100-800
+1-1/2000sec.
+
+Canon Powershot SX700 HS	3.299.000		10
+Kompak, 16MP
+AUTO, ISO 100-3200
+1-1/3200sec
+
+Canon EOS M3 Body		6.499.000		11
+Mirrorless, 24.2MP
+standard ISO 100-12800
+1/4000-30 sec
+
+Canon EOS 80D Body		13.350.000		12
+DSLR - body saja, 24.2MP
+Basic Zone Modes
+ISO 100-6400
+
+Canon PowerShot N2		3.169.000		13
+Kompak, Approx 16.1MP
+AUTO,ISO 100-3200
+1-1/2000 sec
+
+Canon EOS M5 Kit		14.240.000		14
+Mirrorless, 24.2MP
+100-25600 ISO
+1/4000 - 30 s
+
+Canon Powershot S200		2.899.000		15
+Kompak, Approx 10.1MP
+Auto, ISO 80-6400
+1-1/2000 sec
+
+Canon EOS 7D Mark II Body	19.300.000		16
+DSLR - body, Approx 20.2MP
+Normal ISO 100-16000
+1/8000-30 sec

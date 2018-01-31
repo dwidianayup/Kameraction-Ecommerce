@@ -1,0 +1,76 @@
+Olympus PEN Mini E-PM1 Kit	3.599.000	1
+Mirrorless, 12.3MP
+ISO 200-12800
+60-1/4000
+
+Olympus STYLUS VG-180		1.099.000	2
+Kompak, 16MP
+ISO 100-1600
+
+Olympus PEN E-P3 Kit		6.380.000	3
+Mirrorless, 12.3MP
+ISO 200-12800
+1/4000-60s
+
+Olympus SZ-14			1.600.000	4
+Kompak, 14MP
+ISO 80-1600
+1/4-1/1700
+
+Olympus Tough TG-4		4.650.000	5
+Kompak, 16MP
+ISO 100-6400
+1/2-1/2000 sec
+
+Olympus OM-D E-M5 Kit		14.179.000	6
+Mirrorless, 16.1MP
+ISO 200-1600
+60-1/4000
+
+Olympus PEN Mini E-PM2 Kit	6.650.000	7
+Mirrorless, 16.05MP
+ISO 200-25600
+1/4000-60 sec
+
+Olympus VG-150			950.000		8
+Kompak, 12MP
+ISO 100-1600
+4-1/2000
+
+Olympus PEN Lite E-PL5 Kit	9.650.000	9
+Mirrorless, 16.5MP
+AUTO ISO 200-25600
+1/4000-60 sec
+
+Olympus VR-350			1.440.000	10
+Kompak, 15.9MP
+ISO 1600
+4-1/2000
+
+Olympus Stylus SP-100		4.949.000	11
+DSLR-Lens 16MP
+ISO 125-6400
+1/4-1/1700
+
+Olympus PEN-F Kit		20.500.000	12
+DSLR-Lens, Mirrorless, Approx
+AUTO ISO
+
+Olympus ToughTG-5		6.081.000	13
+Kompak, 12MP
+ISO 100-1600
+
+Olympus Stylus Tough TG-830	2.809.000	14
+Kompak, 16MP
+ISO 125-6400
+1/4-1/2000
+
+Olympus Tough TG-3		4.649.000	15
+Kompak, 16MP
+ISO 100-6400
+1/2-1/2000
+
+Olympus VG-160			1.190.000	16
+KOmpak, 14MP
+ISO 80-1600
+1/2-1/2000

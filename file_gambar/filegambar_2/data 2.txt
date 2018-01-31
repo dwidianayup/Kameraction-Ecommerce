@@ -1,0 +1,72 @@
+Fujifilm X-A2 Kit	6.300.000		1
+DSLR - Lens 16.3MP
+ISO 200-6400
+
+Fujifilm instax mini 8	839.000			2
+Kompak
+1/60 sec
+
+Fujifilm X-T10 Kit	10.500.000		3
+Kompak 16.3 MP
+
+Fujifilm X-A3 Kit	7.850.000		4
+Mirrorless, 24.2MP
+ISO 6400-25600
+4 - 1/4000 sec
+
+Fujifilm Finepix HS35EXR	2.975.000	5
+Kompak, 16.0MP
+Auto, ISO 100-12800
+30 - 1/4000 sec
+
+Fujifilm Finepix S4300		1.925.000	6
+DSLR - Lens 14MP
+ISO 64-6400
+1/4-1/2000
+
+Fujifilm X-A10 Kit		5.799.000	7
+Mirrorless, 16.30MP
+ISO 200-6400
+4-1/4000 sec
+
+Fujifilm instax mini 90		1.999.000	8
+Kompak
+ISO 800
+1.8-1/400 sec
+
+Fujifilm X-E2 Kit		8.199.000	9
+Mirrorless, 16.3MP
+ISO 100-25600
+1/4-1/4000 sec
+
+Fujifilm Finepix S4600		1.820.000	10
+Kompak, 16.0MP
+ISO 64-6400
+1/4-1/2000 sec
+
+Fujifilm FinePix S8600		1.974.000	11
+Kompak, 16MP
+ISO 100-6400
+1/4-1/1500 sec
+
+Fujifilm instax mini 9		949.000		12
+Kompak
+1/60s
+
+Fujifilm X70			7.990.000	13
+Kompak, 16.3MP
+ISO 200-6400
+1-1/32000
+
+Fujifilm instax mini 25		849.000		14
+Kompak
+1/3-1/400 sec
+
+Fujifilm Finepix SL300/SL305	2.080.000	15
+Kompak, 14MP
+ISO 64-6400
+1/4-1/2000
+
+Fujifilm Instax WIDE 300	1.599.000	16
+Kompak
+1/64 - 1/200 sec
